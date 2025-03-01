@@ -1,4 +1,4 @@
-[![MasterHead](http://dicer0.com/wp-content/uploads/2023/09/SOLIDWORKS-di_cer0-Banner.png)](https://dicer0.com/#skills)
+[![MasterHead](http://dicer0.com/wp-content/uploads/2025/03/SOLIDWORKS-Parts-di_cer0-Banner.png)](https://dicer0.com/#skills)
 # m_SOLIDWORKS_ESP
 <h6 align="justify">
   <ul>
@@ -12,4 +12,4 @@ This repository only contains the design and development of individual parts.
 <br/>
 &nbsp;
 
-[![SolidWorks](http://dicer0.com/wp-content/uploads/2024/07/m_SOLIDWORS_MkII.gif)](https://dicer0.com/#skills)
+[![SolidWorks](http://dicer0.com/wp-content/uploads/2025/03/m_SOLIDWORKS_Parts_MkII.png)](https://dicer0.com/#skills)
