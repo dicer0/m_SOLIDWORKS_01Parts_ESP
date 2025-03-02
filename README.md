@@ -12,4 +12,4 @@ This repository only contains the design and development of individual parts.
 <br/>
 &nbsp;
 
-[![SolidWorksParts](http://dicer0.com/wp-content/uploads/2025/03/m_SOLIDWORKS_Parts_MkI.png)](https://dicer0.com/#skills)
+[![SolidWorksParts](http://dicer0.com/wp-content/uploads/2025/03/m_SOLIDWORKS_Parts_MkIII.png)](https://dicer0.com/#skills)
